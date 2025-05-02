@@ -1,0 +1,5 @@
+My final project is a game the is based on dice a dungeon and dragons type game, and I am still debating wether to add graphics or not
+but it might just be all text, but I would have senarios that I would manually create and stats to give to players, and a health system
+and random mobs and it would all be random and I might add some easter eggs. right now the code that I will have ready is just the 
+frame at the moment but I will have a different file for the map generation at the moment and next would be to create some mobs and
+special twists.
